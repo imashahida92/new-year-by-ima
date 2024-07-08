@@ -89,3 +89,223 @@ body{
     background: url(happy-new-year-3d-letters-sign-coloful-background-blurred-fireworks-2024-new-year-party);
     margin-bottom: 120px;
 }
+.midnight{
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    border-radius: 16px;
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(images/Vectorrr.png);
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.midnight .left-mid{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.midnight .right-mid{
+    width: 50%;
+}
+.midnight .left-mid h1{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+    text-align: left;
+}
+.midnight .left-mid p{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 90px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+.midnight .left-mid span{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.midnight .right-mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+/* location part started */
+.location{
+    height: 482px;
+    width: 1320px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    margin-bottom: 120px;
+}
+.location .loc-content h3{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.location .loc-content span{
+    color: #FF0000;
+}
+.btn{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    padding: 16px 32px 16px 32px;
+}
+
+.btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+    }
+    /* coming  soon section */
+.coming{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1320px;
+    height: 463px;
+    margin: 0 auto;
+    margin-bottom: 120px;
+}
+.coming-sec_1{
+    width: 33%;
+}
+.coming-sec_1 h6{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.coming-sec_1 h2{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+margin-top: 16px;
+margin-bottom: 22px;
+}
+.coming-sec_1 p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.coming-sec-3{
+    width: 33%;
+}
+.coming-sec-3 h1{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+}
+.coming-sec-3 p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 43px;
+margin-top: 16px;
+}
+.coming-sec-2{
+    width: 33%;
+    box-sizing: border-box;
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coming-sec-2 img{
+    height: 364px;
+}
+/* functional section started  */
+.fun{
+    margin: 0 auto;
+    display: flex;
+    justify-content:center ;
+    height: 260px;
+    width: 1068px;
+}
+.fun-sec h6{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 16px;
+}
+.fun-sec h1{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0%;
+text-align: center;
+}
+.fun-sec span{
+    color: #FF0000;
+    margin-bottom: 28px;
+}
+.fun-sec p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 69px;
+}
