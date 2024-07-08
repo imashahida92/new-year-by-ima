@@ -50,4 +50,42 @@ body{
 .offer{
     width: 802px;
     height: 806px;
+    margin-top: 70px;
+    margin: 0 auto;
+}
+.offer h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.offer .offer-content p{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 16px;
+}
+.offer .offer-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.offer img{
+    width: 100%;
+    height: 100%;
+    margin-top: 48px;
+    background: url(happy-new-year-3d-letters-sign-coloful-background-blurred-fireworks-2024-new-year-party);
+    margin-bottom: 120px;
 }
